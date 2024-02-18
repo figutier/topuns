@@ -1,0 +1,6 @@
+scikit-learn==1.3.0
+scipy==1.11.2
+torchvision 
+gudhi==3.9.0
+--find-links https://download.pytorch.org/whl/torch_stable.html
+torch==2.1.2+cu121
